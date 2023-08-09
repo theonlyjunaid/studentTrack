@@ -1,5 +1,5 @@
 import Class from "@/model/Class";
-import connectDB from "../../../middleware/mongoose";
+import connectDB from "../../middleware/mongoose";
 
 const handler = async (req, res) => {
     if (req.method === 'POST') {
