@@ -110,7 +110,7 @@ const res = await fetch("/api/createClass", {
                 <option value="null">class status</option>
 
                 <option value="Active">Active</option>
-                <option value="Teacher on leave">Teacher on leave</option>
+                <option value="Teacher_on_leave">Teacher on leave</option>
                 <option value="Bunked">Bunked</option>
               </select>
             </div>
